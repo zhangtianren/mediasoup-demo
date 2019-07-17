@@ -2,7 +2,7 @@ const repl = require('repl');
 const readline = require('readline');
 const net = require('net');
 const fs = require('fs');
-const mediasoup = require('mediasoup');
+const mediasoup = require('mediasoup_nodemodule');
 const colors = require('colors/safe');
 const pidusage = require('pidusage');
 
